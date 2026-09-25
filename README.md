@@ -19,7 +19,7 @@ A Quran verse-indexing trainer designed to help users strengthen their knowledge
 - Conflict-safe cloud synchronization
 - Arabic-first user experience
 
-> Repository and Google Play links coming soon.
+[View the repository](https://github.com/idrisharif88-rgb/quran-fives-react) · [Get it on Google Play](https://play.google.com/store/apps/details?id=com.shoaib.quranfives)
 
 ### 🛒 daftar-albaqala
 
@@ -52,4 +52,18 @@ An offline-first, multi-tenant grocery debt tracker designed for grocery stores 
 - MySQL
 - REST APIs
 - Offline-first architecture
-- Cloud 
+- Cloud synchronization
+
+### Infrastructure and Tooling
+
+- DigitalOcean
+- nginx and Let's Encrypt
+- pm2 and Cloudflare
+- Git and GitHub
+
+## 📫 Get in Touch
+
+I'm open to backend, mobile, and full-stack opportunities.
+
+- Email: idrisharif88@gmail.com
+- GitHub: [@idrisharif88-rgb](https://github.com/idrisharif88-rgb)
